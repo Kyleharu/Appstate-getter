@@ -5,7 +5,7 @@
 	"CustomFont": true,
 	"MainColor": "#FFFF00",
 	"MainName": "[ FCA-PROJECT-ORION ]",
-	"Uptime": false,
+	"Uptime": true,
 	"Config": "default",
 	"DevMode": false,
 	"Login2Fa": false,
